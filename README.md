@@ -25,5 +25,5 @@ We learned how to constrain our ideas to a smaller timeframe in order to have a 
 ## What's Next for PetPal
 We plan to streamline the product and rid it of any bugs or work through any fixes it needs, before we make it available for use for free. The website will be completed soon, followed by the mobile application. Who knows; we may even decide to incorporate other API's and market it as a finished product! 
 
-##Prizes We're Shooting For
+## Prizes We're Shooting For
 Silliest Hack, MLH Hackathon
